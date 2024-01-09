@@ -11,10 +11,10 @@
 # 2. **pylog**
 ###   - **설명:** 개인 블로그 서비스로 글 작성, 댓글 기능을 포함한 블로그 플랫폼
 ###   - **사진:** 
-     ![pylog main](pylog_img/main.png)
-     ![pylog main](pylog_img/posts.png)
-     ![pylog main](pylog_img/post_detail.png)
-     ![pylog main](pylog_img/post_add.png)
+![pylog main](pylog_img/main.png)
+![pylog main](pylog_img/posts.png)
+![pylog main](pylog_img/post_detail.png)
+![pylog main](pylog_img/post_add.png)
 
 
      
