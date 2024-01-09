@@ -6,7 +6,7 @@
    - **사진:**
      ![pyburger main](pyburger_img/main.png)
      ![pyburger main](pyburger_img/list.png)
-     ![pyburger main](pyburger_img/searh.png)
+     ![pyburger main](pyburger_img/search.png)
 
 2. **pylog**
    - **설명:** 개인 블로그 서비스로 글 작성, 댓글 기능을 포함한 블로그 플랫폼
