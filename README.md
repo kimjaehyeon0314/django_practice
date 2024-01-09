@@ -4,9 +4,9 @@
 # 1. **pyburger**
 ###   - **설명:** 도서 관리, 대출 및 반납 기능을 갖춘 온라인 도서관 관리 시스템
 ###   - **사진:**
-     ![pyburger main](pyburger_img/main.png)
-     ![pyburger main](pyburger_img/list.png)
-     ![pyburger main](pyburger_img/search.png)
+![pyburger main](pyburger_img/main.png)
+![pyburger main](pyburger_img/list.png)
+![pyburger main](pyburger_img/search.png)
 
 # 2. **pylog**
 ###   - **설명:** 개인 블로그 서비스로 글 작성, 댓글 기능을 포함한 블로그 플랫폼
